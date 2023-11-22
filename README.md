@@ -44,3 +44,8 @@ Power BI
 
 varför?
 Valde Power bi för en simpel visualisering av data från virtual raspberrypi
+
+
+![IotDataVisuals](https://github.com/Prsoderlund/displaysensordata/assets/114224908/6fe472af-e1b7-4247-9cd0-e2cc1ce34ef4)
+
+
