@@ -2,6 +2,10 @@
 Raspberry Pi - Connection String:
 Description: Utilized a virtual Raspberry Pi along with a connection string to connect to the IoT Hub.
 Purpose: Provided an efficient and straightforward method for testing Azure functionality.
+![image](https://github.com/Prsoderlund/displaysensordata/assets/114224908/6a84735d-0ae2-4174-a075-7a99cffb1e77)
+![image](https://github.com/Prsoderlund/displaysensordata/assets/114224908/98196d2b-a9a7-465d-ad9e-3b7bf720732b)
+
+
 
 Azure IoT Hub Device - Raspberry Pi - Connection String:
 Description: Used Azure IoT Hub to establish secure and reliable communication between the IoT application and devices.
