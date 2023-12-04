@@ -1,4 +1,7 @@
 # displaysensordata
+![IotDataVisuals](https://github.com/Prsoderlund/displaysensordata/assets/114224908/6fe472af-e1b7-4247-9cd0-e2cc1ce34ef4)
+
+
 Raspberry Pi - Connection String:
 Description: Utilized a virtual Raspberry Pi along with a connection string to connect to the IoT Hub.
 Purpose: Provided an efficient and straightforward method for testing Azure functionality.
