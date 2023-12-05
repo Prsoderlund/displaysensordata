@@ -91,4 +91,15 @@ Power BI for Visualization:
 Power BI is chosen for its simplicity and capability in visualizing data from the virtual Raspberry Pi.
 Power BI's cloud-based service allows for scalability in terms of data visualization, accommodating an increasing amount of data for real-time dashboards.
 
+______________________________________________________________________________________________________________________________________________________
 
+Integration of Weather Data:
+
+API Data Verification with Postman:
+Before integrating weather data into Power BI, the use of Postman for verification ensures that the data from the API is accurate, of good quality, and in the correct format.
+Verification using Postman helps identify and address any issues with the weather data before incorporating it into the project.
+
+______________________________________________________________________________________________________________________________________________________
+
+
+By using these security and scalability measures, the project ensures a robust and reliable system for displaying sensor data, capable of handling increasing workloads and maintaining the integrity and security of the transmitted data.
