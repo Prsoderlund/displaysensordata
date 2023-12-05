@@ -1,5 +1,5 @@
 # displaysensordata
-![image](https://github.com/Prsoderlund/displaysensordata/assets/114224908/0c295782-2154-4281-8895-40411e101490)
+![IotDataVisuals](https://github.com/Prsoderlund/displaysensordata/assets/114224908/6fe472af-e1b7-4247-9cd0-e2cc1ce34ef4)
 
 ______________________________________________________________________________________________________________________________________________________
 
