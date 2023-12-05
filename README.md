@@ -1,6 +1,6 @@
 # displaysensordata
 ![IotDataVisuals](https://github.com/Prsoderlund/displaysensordata/assets/114224908/6fe472af-e1b7-4247-9cd0-e2cc1ce34ef4)
-![IotDataVisuals](https://github.com/Prsoderlund/displaysensordata/assets/114224908/6fe472af-e1b7-4247-9cd0-e2cc1ce34ef4)
+![Namnlöst diagram drawio (1)](https://github.com/Prsoderlund/displaysensordata/assets/114224908/712c84ad-7fd5-4c33-8c24-5a1a2cba00a9)
 
 ______________________________________________________________________________________________________________________________________________________
 
