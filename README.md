@@ -64,4 +64,5 @@ Använd Postman för att verifiera att väderdata från API är korrekt, av god 
 ![image](https://github.com/Prsoderlund/displaysensordata/assets/114224908/0769e7fd-c48c-424c-9d78-058c2d705a85)
 
 
+![Namnlöst diagram drawio (1)](https://github.com/Prsoderlund/displaysensordata/assets/114224908/712c84ad-7fd5-4c33-8c24-5a1a2cba00a9)
 
