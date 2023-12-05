@@ -55,6 +55,13 @@ Facilitated the creation of powerful real-time dashboards and visualizations usi
 
 ![image](https://github.com/Prsoderlund/displaysensordata/assets/114224908/012e0575-a56a-4a42-9dc3-3ce0004b0320)
 
+______________________________________________________________________________________________________________________________________________________
+
+Integrera väderdata från API till Power BI för visualisering. 
+Använd Postman för att verifiera att väderdata från API är korrekt, av god kvalitet och har rätt format.
+
+![image](https://github.com/Prsoderlund/displaysensordata/assets/114224908/7896f9d8-8233-4bf2-9f2b-07857e43a5aa)
+![image](https://github.com/Prsoderlund/displaysensordata/assets/114224908/0769e7fd-c48c-424c-9d78-058c2d705a85)
 
 
 
