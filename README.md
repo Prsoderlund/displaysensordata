@@ -63,5 +63,32 @@ Använd Postman för att verifiera att väderdata från API är korrekt, av god 
 ![image](https://github.com/Prsoderlund/displaysensordata/assets/114224908/7896f9d8-8233-4bf2-9f2b-07857e43a5aa)
 ![image](https://github.com/Prsoderlund/displaysensordata/assets/114224908/0769e7fd-c48c-424c-9d78-058c2d705a85)
 
+______________________________________________________________________________________________________________________________________________________
+
+Azure IoT Hub Security:
+
+The use of Azure IoT Hub ensures secure and reliable communication between the IoT application and devices, including the virtual Raspberry Pi.
+Azure IoT Hub provides device-to-cloud and cloud-to-device communication with built-in per-device authentication, ensuring that only authorized devices can connect to the hub.
+Connection String Encryption:
+
+The utilization of a connection string for the Raspberry Pi enhances security by providing a secure and efficient method for connecting to the IoT Hub.
+Connection string parameters should be encrypted and stored securely to prevent unauthorized access.
+
+______________________________________________________________________________________________________________________________________________________
+
+Scalability
+
+Azure Stream Analytics for Real-Time Analysis:
+
+The adoption of Azure Stream Analytics facilitates real-time analysis of streamed data from the virtual Raspberry Pi.
+Azure Stream Analytics allows for easy configuration and scalability of the streaming job to handle increased data volume.
+Cloud-Based Platform:
+
+Leveraging a cloud-based platform for stream analytics ensures scalability and flexibility in handling varying workloads.
+Azure's cloud infrastructure provides automatic scaling capabilities, allowing the system to adapt to changing demands.
+Power BI for Visualization:
+
+Power BI is chosen for its simplicity and capability in visualizing data from the virtual Raspberry Pi.
+Power BI's cloud-based service allows for scalability in terms of data visualization, accommodating an increasing amount of data for real-time dashboards.
 
 
